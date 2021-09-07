@@ -15,3 +15,13 @@
    2. Waiting for the flight
    3. Board your flight
 3. Complete your check-out process in France
+
+* Clothes
+  * Sweater
+  * Shoes
+* Cosmetics
+  * Lotions
+* Money
+* Snacks
+  * Chocolates
+  * Biscuits   
