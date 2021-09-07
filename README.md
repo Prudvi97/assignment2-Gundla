@@ -38,3 +38,10 @@ Some of the best things I had in India are recommended in a table with three col
 | Chicken Pizza    |  Domino's     |     $3.00      |
 |Frappuccinos      |  Starbucks    |     $5.00      |
 |Chicken wings     |  KFC          |     $4.00      |
+
+# Authors Quotes
+
+> "Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind." - by
+*  Bernard M. Baruch <br>
+> "We must not allow other people’s limited perceptions to define us." - by
+*  Virginia Satir
