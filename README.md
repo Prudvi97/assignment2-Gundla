@@ -27,3 +27,14 @@
   * Biscuits
 
 [AboutMe](https://github.com/Prudvi97/assignment2-Gundla/blob/main/AboutMe.md)
+
+# Table Section
+
+Some of the best things I had in India are recommended in a table with three columns.
+
+| FOOD/DRINK       |  LOCATION     |      COST      |
+|     ---          |   ---         |     ---        |
+|Spaghetti Pasta   |  Bukhara      |     $3.00      |
+| Chicken Pizza    |  Domino's     |     $3.00      |
+|Frappuccinos      |  Starbucks    |     $5.00      |
+|Chicken wings     |  KFC          |     $4.00      |
